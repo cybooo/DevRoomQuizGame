@@ -1,0 +1,48 @@
+database:
+  host: ""
+  port: 3306
+  username: ""
+  password: ""
+  database: ""
+categories:
+  Geography:
+    - "What is the capital city of Japan?;Tokyo"
+    - "Which river is the longest in the world?;Nile"
+    - "What is the largest continent?;Asia"
+    - "Which country is known as the Land of the Rising Sun?;Japan"
+    - "What is the tallest mountain in the world?;Mount Everest"
+  History:
+    - "Who was the first President of the United States?;George Washington"
+    - "In which year did World War II end?;1945"
+    - "Who was the first woman to fly solo across the Atlantic Ocean?;Amelia Earhart"
+    - "What was the name of the ship on which Charles Darwin sailed during his voyage?;HMS Beagle"
+  Science:
+    - "What is the chemical symbol for water?;H2O"
+    - "What is the hardest natural substance on Earth?;Diamond"
+    - "Which gas do plants absorb from the atmosphere during photosynthesis?;Carbon dioxide"
+    - "What is the basic unit of life?;Cell"
+  Literature:
+    - "Who wrote the famous novel 'To Kill a Mockingbird'?;Harper Lee"
+    - "In which play would you find the character Hamlet?;Hamlet"
+    - "Which novel features the character Jay Gatsby?;The Great Gatsby"
+    - "Who is the author of the 'Harry Potter' series?;J.K. Rowling"
+  Movies:
+    - "Who directed the movie 'Pulp Fiction'?;Quentin Tarantino"
+    - "Which actor played the character of Neo in the movie 'The Matrix'?;Keanu Reeves"
+    - "What is the name of the lion cub in 'The Lion King'?;Simba"
+    - "Which movie features a clownfish named Nemo?;Finding Nemo"
+  Music:
+    - "Who composed the famous symphony 'Symphony No. 9' (also known as 'Choral')?;Ludwig van Beethoven"
+    - "Which British band was John Lennon a member of?;The Beatles"
+    - "What is the best-selling album of all time?;Thriller by Michael Jackson"
+    - "Who is known as the 'Queen of Pop'?;Madonna"
+    - "Which legendary guitarist is known for his work in the band Queen?;Brian May"
+  Sports:
+    - "Which country won the most medals in the 2020 Summer Olympics?;United States"
+    - "In which sport would you perform a slam dunk?;Basketball"
+    - "What is the national sport of Japan?;Sumo wrestling"
+  Technology:
+    - "What does the acronym 'URL' stand for in web terminology?;Uniform Resource Locator"
+    - "Which company developed the first Macintosh computer?;Apple"
+    - "Which programming language is often used for artificial intelligence and machine learning?;Python"
+    - "Who co-founded Microsoft with Bill Gates?;Paul Allen"

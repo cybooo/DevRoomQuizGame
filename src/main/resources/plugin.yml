@@ -1,0 +1,7 @@
+name: DevRoomQuizGame
+version: 1.0
+main: dev.cybo.devroomquizgame.DevRoomQuizGame
+author: cybooo
+commands:
+  quiz:
+  quizstats:
